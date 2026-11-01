@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>The Daily AI Podcast</title>
+<link>https://emarks001.github.io/daily-ai-feed-11f2e69845cc/</link>
+<atom:link href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Daily compendium of the most important news in AI, for CIOs and IT leaders.</description>
+<language>en-us</language>
+<itunes:author>Ted Marks</itunes:author>
+<itunes:summary>Daily compendium of the most important news in AI, for CIOs and IT leaders.</itunes:summary>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<image>
+<url>https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg</url>
+<title>The Daily AI Podcast</title>
+<link>https://emarks001.github.io/daily-ai-feed-11f2e69845cc/</link>
+</image>
+<itunes:category text="Technology"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:block>Yes</itunes:block>
+<!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
+<item>
+<title>Nov 1, 2026 – AI Drug Discovery and Linux Kernel Exploits</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Sun, 01 Nov 2026 06:30:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-01</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1tnhPmfFkhtMlGVs4-9Mb4VStWGTc_Ccg" length="8916620" type="audio/mpeg"/>
+<itunes:duration>29:42</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
