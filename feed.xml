@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 2, 2026 – Invisible Ads Now Target Enterprise AI</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Mon, 02 Nov 2026 06:33:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-02</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1KNLxFj9PLTTlm7IuH6m1_DHprYVAnLfO" length="9674693" type="audio/mpeg"/>
+<itunes:duration>23:01</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 1, 2026 – AI Drug Discovery and Linux Kernel Exploits</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Sun, 01 Nov 2026 06:30:00 -0600</pubDate>
