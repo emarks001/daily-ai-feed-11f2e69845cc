@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 3, 2026 – How AI Agents Bypass Spending Limits</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Tue, 03 Nov 2026 06:27:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-03</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1DQ9exaXF_BHWEaihSiXZalj5BUgLq0nB" length="8888669" type="audio/mpeg"/>
+<itunes:duration>49:20</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 2, 2026 – Invisible Ads Now Target Enterprise AI</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Mon, 02 Nov 2026 06:33:00 -0600</pubDate>
