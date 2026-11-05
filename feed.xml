@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 5, 2026 – Enterprise AI Utility Billing and Agent Liability</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Thu, 05 Nov 2026 06:21:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-05</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1LsI3UPz-MsECArYDRcZ8nuRd7R5C0TY7" length="9141665" type="audio/mpeg"/>
+<itunes:duration>30:27</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 4, 2026 – The Illusion of Human AI Oversight</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Wed, 04 Nov 2026 06:32:00 -0600</pubDate>
