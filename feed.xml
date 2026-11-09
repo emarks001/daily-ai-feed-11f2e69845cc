@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 9, 2026 – AI coding tools leak enterprise credentials</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Mon, 09 Nov 2026 06:23:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-09</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1lrL-a1x9x8jYP376zsR5dxRHQ6C-GX-R" length="7332136" type="audio/mpeg"/>
+<itunes:duration>15:15</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 8, 2026 – What ChatGPT Remembers About Your Enterprise</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Sun, 08 Nov 2026 06:20:00 -0600</pubDate>
