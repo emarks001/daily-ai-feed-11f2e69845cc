@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 14, 2026 – Jensen Huang Resignation Shakes Enterprise AI</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Fri, 13 Nov 2026 23:26:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-14</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1tBAlgSIi2-AL2vw_Q6cIR3VAy3lG6A2v" length="8982788" type="audio/mpeg"/>
+<itunes:duration>24:56</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 9, 2026 – AI coding tools leak enterprise credentials</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Mon, 09 Nov 2026 06:23:00 -0600</pubDate>
