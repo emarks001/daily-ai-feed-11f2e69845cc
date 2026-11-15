@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 15, 2026 – Why AI Agents Agree on Huge Mistakes</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Sun, 15 Nov 2026 08:35:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-15</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1VXfvmPI9Ktr1rl_JjvsofoijyjwWXVt-" length="8714928" type="audio/mpeg"/>
+<itunes:duration>24:11</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 14, 2026 – Jensen Huang Resignation Shakes Enterprise AI</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Fri, 13 Nov 2026 23:26:00 -0600</pubDate>
