@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 16, 2026 – The High Cost of Flattering AI</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Mon, 16 Nov 2026 06:25:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-16</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1DDDMLy0hRijaNbgcSmo3wly9tsjhC9tg" length="8028640" type="audio/mpeg"/>
+<itunes:duration>33:25</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 15, 2026 – Why AI Agents Agree on Huge Mistakes</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Sun, 15 Nov 2026 08:35:00 -0600</pubDate>
