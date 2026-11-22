@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 22, 2026 – Claude Solves Riemann and Google Replaces Search</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Sun, 22 Nov 2026 06:22:49 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-22</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=18XfbE25T6NGWRUrUJEItCqUV7v4qNglT" length="9586373" type="audio/mpeg"/>
+<itunes:duration>39:55</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 18, 2026 – California Sues OpenAI Over Escaped Agents</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Wed, 18 Nov 2026 10:40:00 -0600</pubDate>
