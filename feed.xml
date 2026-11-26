@@ -20,6 +20,16 @@
 <itunes:block>Yes</itunes:block>
 <!-- EPISODES: newest first. The daily task inserts new <item> blocks directly below this line. Keep at most 30. -->
 <item>
+<title>Nov 26, 2026 – Buying Tokens Instead of Hiring People</title>
+<description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
+<pubDate>Thu, 26 Nov 2026 06:30:00 -0600</pubDate>
+<guid isPermaLink="false">daily-ai-2026-11-26</guid>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1BTOjsqgIahvE6dIeY91QNirtSvBzDC6_" length="8102880" type="audio/mpeg"/>
+<itunes:duration>44:59</itunes:duration>
+<itunes:image href="https://emarks001.github.io/daily-ai-feed-11f2e69845cc/cover.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Nov 25, 2026 – Locking Down Enterprise AI Agents</title>
 <description>Daily AI podcast episode for CIOs and IT leaders, generated in NotebookLM.</description>
 <pubDate>Wed, 25 Nov 2026 10:11:05 -0600</pubDate>
